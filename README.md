@@ -18,6 +18,7 @@
 - Fixed BT playback in browser
 - Debloat
 - AOD Removed
+- Give rom 30 hours to settle
 
 ### Bugs
 - Play integrity

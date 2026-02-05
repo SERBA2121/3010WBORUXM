@@ -27,3 +27,6 @@
 - 60fps video recording (try gcam)
 - Screen recorder (ADV recorender installed)
 - Other bugs..
+
+Idk about battery life and heat. Install and test urself
+Maybe u will see lags (im ftupid gay girl meow meow and i cant optimize rom meow :3)

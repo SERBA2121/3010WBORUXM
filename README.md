@@ -27,6 +27,7 @@
 - Auto brightness
 - 60fps video recording (try gcam)
 - Screen recorder (ADV recorender installed)
+- Sound effects is sus
 - Other bugs..
 
 Idk about battery life and heat. Install and test urself.

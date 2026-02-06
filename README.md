@@ -19,7 +19,7 @@
 - Debloat
 - AOD Removed
 - Give rom 30 hours to settle
-- E404 kernel (KSU1.0.5)
+- E404 kernel (KSU1.0.1)
 - Lowend launcher and qs anims 
 
 ### Bugs
